@@ -1,6 +1,9 @@
 # Healthcare Operations KPI Dashboard
 
 ## Executive Overview
+## Dashboard Preview
+
+![Healthcare Operations Executive Dashboard](dashboard-preview.png)
 
 This portfolio project demonstrates how operational data can be transformed into an executive-level performance dashboard for an ambulatory healthcare organization.
 
